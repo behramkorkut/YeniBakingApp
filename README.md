@@ -5,7 +5,6 @@
 <br>
 
 This is a production-ready android application 
-<br>
 
 ## Librairies
 - [Retrofit](https://github.com/square/retrofit)
